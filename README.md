@@ -1,4 +1,5 @@
+WordPress Features
 wp-features
 ===========
 
-WordPress Features
+Based on the popular module Features for Drupal http://drupal.org/project/features
